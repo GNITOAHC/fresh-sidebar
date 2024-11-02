@@ -16,11 +16,6 @@ export default function plugin(): Plugin {
             href:
               "https://cdn.jsdelivr.net/gh/GNITOAHC/fresh-sidebar@main/styles.css",
           },
-          {
-            rel: "stylesheet",
-            href:
-              "https://cdn.jsdelivr.net/gh/GNITOAHC/blog-data@main/styles.css",
-          },
         ],
       };
     },

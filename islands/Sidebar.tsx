@@ -1,5 +1,5 @@
 import type { ComponentChildren } from "preact";
-import { createContext, FunctionalComponent } from "preact";
+import { createContext, type FunctionalComponent } from "preact";
 import { useContext, useState } from "preact/hooks";
 import { twMerge } from "https://esm.sh/tailwind-merge@2.5.4";
 import { type ClassValue, clsx } from "https://esm.sh/clsx@2.1.1";
