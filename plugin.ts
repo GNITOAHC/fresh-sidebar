@@ -14,7 +14,7 @@ export default function plugin(): Plugin {
           {
             rel: "stylesheet",
             href:
-              "https://cdn.jsdelivr.net/gh/GNITOAHC/fresh-sidebar@main/styles.css",
+              "https://cdn.jsdelivr.net/gh/GNITOAHC/fresh-sidebar@main/static/styles.css",
           },
         ],
       };
