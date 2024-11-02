@@ -1,4 +1,4 @@
-import { Plugin, PluginRenderContext } from "$fresh/server.ts";
+import type { Plugin, PluginRenderContext } from "$fresh/server.ts";
 
 export default function plugin(): Plugin {
   return {
