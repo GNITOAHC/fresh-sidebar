@@ -1,10 +1,6 @@
 {
   "name": "@gnitoahc/fresh-sidebar",
-  "version": "0.0.1",
-  "exports": {
-    "./plugin.ts": "./plugin.ts",
-    "./islands/Sidebar.tsx": "./islands/Sidebar.tsx"
-  },
+  "version": "0.0.3",
   "tasks": {
     "dev": "deno run --watch main.ts",
     "tailwind": "./node_modules/.bin/tailwindcss -o static/input.css -o static/styles.css"
